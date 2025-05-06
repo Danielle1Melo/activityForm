@@ -2,8 +2,6 @@
 
 This project is a simple form developed using **HTML** and **CSS** for the Front-End discipline.
 
-https://danielle1melo.github.io/activityForm/ 
-
 ## Technologies Used
 - **HTML5**: For structuring the form
 - **CSS3**: For styling and layout
